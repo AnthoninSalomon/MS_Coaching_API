@@ -1,0 +1,24 @@
+{
+  "name": "ms_coaching_api",
+  "version": "1.0.0",
+  "description": "MS_Coaching_API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthoninSalomon/MS_Coaching_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AnthoninSalomon/MS_Coaching_API/issues"
+  },
+  "homepage": "https://github.com/AnthoninSalomon/MS_Coaching_API#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
